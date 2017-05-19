@@ -9,3 +9,13 @@ const speak = function(arr){
 };
 const res = speak(['hello','world']);
 console.log(res)
+
+
+
+// 
+// const http = require('http');
+// const server = http.createServer((req,res)=>{
+//   if (req.url ==='/'{
+//     res
+//   })
+// })
